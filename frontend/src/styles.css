@@ -1,0 +1,9 @@
+body { font-family: Arial; background:#f5f6fa; padding:20px; }
+.card { background:white; padding:16px; border-radius:8px; }
+.table { width:100%; border-collapse:collapse; margin-top:14px;}
+.table th, .table td { padding:8px; border-bottom:1px solid #eee; }
+.button { padding:6px 12px; border-radius:6px; border:1px solid #ccc; cursor:pointer; }
+.btn-primary { background:#00684a; color:white; border:none; }
+.input { padding:8px; width:100%; border:1px solid #ccc; border-radius:6px; margin-bottom:8px; }
+.backdrop { position:fixed;inset:0;background:rgba(0,0,0,0.4);display:flex;justify-content:center;align-items:center;}
+.modal { background:white;padding:20px;border-radius:8px;width:350px; }
